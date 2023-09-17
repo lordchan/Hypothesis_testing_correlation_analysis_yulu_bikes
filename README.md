@@ -7,19 +7,19 @@ This repository contains the implementation of the Yulu Analysis Project, aimed 
 Dataset [https://github.com/lordchan/Hypothesis_testing_correlation_analysis_yulu_bikes/blob/main/yulu_dataset.txt]
 The dataset used for this analysis can be found here. It includes the following columns:
 
-datetime: Date and time
-season: Season (1: spring, 2: summer, 3: fall, 4: winter)
-holiday: Whether the day is a holiday (0: No, 1: Yes)
-workingday: Whether the day is a working day (0: No, 1: Yes)
-weather: Weather conditions (1: Clear, 2: Mist, 3: Light Snow, 4: Heavy Rain)
-temp: Temperature in Celsius
-atemp: Feeling temperature in Celsius
-humidity: Humidity
-windspeed: Wind speed
-casual: Count of casual users
-registered: Count of registered users
-count: Count of total rental bikes (casual + registered)
-Implementation Steps
+1. datetime: Date and time
+2. season: Season (1: spring, 2: summer, 3: fall, 4: winter)
+3. holiday: Whether the day is a holiday (0: No, 1: Yes)
+4. workingday: Whether the day is a working day (0: No, 1: Yes)
+5. weather: Weather conditions (1: Clear, 2: Mist, 3: Light Snow, 4: Heavy Rain)
+6. temp: Temperature in Celsius
+7. atemp: Feeling temperature in Celsius
+8. humidity: Humidity
+9. windspeed: Wind speed
+10. casual: Count of casual users
+11. registered: Count of registered users
+12. count: Count of total rental bikes (casual + registered)
+# Implementation Steps
 To perform the analysis and answer the project's questions, the following steps were taken:
 
 ## 1. Data Import and Exploration
