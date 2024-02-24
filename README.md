@@ -4,8 +4,7 @@
 This repository contains the implementation of the Yulu Analysis Project, aimed at understanding the factors affecting the demand for shared electric cycles in the Indian market. The project was conducted to help Yulu, India's leading micro-mobility service provider, gain insights into variables that significantly predict the demand for their shared electric cycles.
 
 ## Project Implementation
-Dataset [https://github.com/lordchan/Hypothesis_testing_correlation_analysis_yulu_bikes/blob/main/yulu_dataset.txt]
-The dataset used for this analysis can be found here. It includes the following columns:
+It includes the following columns:
 
 1. datetime: Date and time
 2. season: Season (1: spring, 2: summer, 3: fall, 4: winter)
